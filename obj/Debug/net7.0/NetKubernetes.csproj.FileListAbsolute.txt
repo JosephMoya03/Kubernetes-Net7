@@ -69,3 +69,5 @@ C:\NET7\NetKubernetes\obj\Debug\net7.0\refint\NetKubernetes.dll
 C:\NET7\NetKubernetes\obj\Debug\net7.0\NetKubernetes.pdb
 C:\NET7\NetKubernetes\obj\Debug\net7.0\NetKubernetes.genruntimeconfig.cache
 C:\NET7\NetKubernetes\obj\Debug\net7.0\ref\NetKubernetes.dll
+C:\NET7\NetKubernetes\bin\Debug\net7.0\MySqlConnector.dll
+C:\NET7\NetKubernetes\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll

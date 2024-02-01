@@ -19,6 +19,7 @@ public class LoadDatabase {
 
             await usuarioManager.CreateAsync(usuario, "PasswordVxidrez123$");
 
+            
         }
 
         if(!context.Inmuebles!.Any())
